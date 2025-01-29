@@ -2,7 +2,7 @@
 My name is Alexander and i am a student in computer science. 
 
 ### My main project(s)
-[![Static Badge](https://img.shields.io/badge/Librairy_to_make_2d_game_%E2%87%BE%0A-Bbop_Library-green?style=for-the-badge&logo=c%2B%2B&color=rgb(255%2C0%2C127))](https://github.com/Alexander7474/Bbop-Library)<br>
+[![Static Badge](https://img.shields.io/badge/Librairy_to_make_2d_game_%E2%87%BE%0A-Bbop_2D-green?style=for-the-badge&logo=c%2B%2B&color=rgb(255%2C0%2C127))](https://github.com/Alexander7474/Bbop-2D)<br>
 [![Static Badge](https://img.shields.io/badge/2d_game_%E2%87%BE%0A-Deos_Fuge-green?style=for-the-badge&logo=nintendo-3ds&color=rgb(255%2C255%2C0))](https://github.com/Alexander7474/Deos-Fuge)
 
 ### My Organization(s)
